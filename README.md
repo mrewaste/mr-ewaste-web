@@ -36,21 +36,6 @@ mr-ewaste-web/
 └── tsconfig.json (if using TypeScript)
 
 
----
-
-## 🚀 Getting Started (Local Dev)
-
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-
-
 📬 Contribution
 Want to help? Open an issue or fork this repo.
 See mr-ewaste-core for project-wide documentation.
