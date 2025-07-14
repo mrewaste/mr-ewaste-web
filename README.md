@@ -25,15 +25,17 @@ This site is used for:
 
 ## 🗂️ Folder Structure
 
+```
 mr-ewaste-web/
-├── pages/ → Main pages (index, about, submit, etc.)
-├── components/ → Shared components (Navbar, Footer)
-├── public/ → Static assets (images, favicon)
-├── styles/ → Global CSS or Tailwind setup
+├── pages/         → Main pages (index, about, submit, etc.)
+├── components/    → Shared components (Navbar, Footer)
+├── public/        → Static assets (images, favicon)
+├── styles/        → Global CSS or Tailwind setup
 ├── README.md
 ├── package.json
 ├── next.config.js
-└── tsconfig.json (if using TypeScript)
+└── tsconfig.json  (if using TypeScript)
+ ```
 
 
 📬 Contribution
